@@ -1,3 +1,0 @@
-[submodule "cordova-plugin-background-mode"]
-	path = cordova-plugin-background-mode
-	url = https://github.com/tushe/cordova-plugin-background-mode.git
